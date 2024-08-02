@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MultiFileTransClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiFileTransClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiFileTransClient-Debug-f17714264678d6467f2d.json",
+					"name" : "MultiFileTransClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiFileTransClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiFileTransClient_autogen-Debug-1309bd38c60fd243c2a9.json",
+					"name" : "MultiFileTransClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiFileTransClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiFileTransClient_autogen_timestamp_deps-Debug-9c909a79cd8cdd1a472c.json",
+					"name" : "MultiFileTransClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/App_Data/Project/MultiFileTransClient/cmake-build-debug",
+		"source" : "E:/App_Data/Project/MultiFileTransClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

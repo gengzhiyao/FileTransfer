@@ -1,0 +1,509 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "MultiFileTransClient.exe"
+		},
+		{
+			"path" : "MultiFileTransClient.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"E:/Install_Project/QT/6.7.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 169,
+				"parent" : 3
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 60,
+				"parent" : 5
+			},
+			{
+				"file" : 1,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 169,
+				"parent" : 3
+			},
+			{
+				"file" : 5,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 60,
+				"parent" : 10
+			},
+			{
+				"file" : 4,
+				"parent" : 11
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 61,
+				"parent" : 12
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 55,
+				"parent" : 10
+			},
+			{
+				"file" : 6,
+				"parent" : 14
+			},
+			{
+				"command" : 1,
+				"file" : 6,
+				"line" : 61,
+				"parent" : 15
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 169,
+				"parent" : 3
+			},
+			{
+				"file" : 8,
+				"parent" : 17
+			},
+			{
+				"command" : 2,
+				"file" : 8,
+				"line" : 60,
+				"parent" : 18
+			},
+			{
+				"file" : 7,
+				"parent" : 19
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 61,
+				"parent" : 20
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 169,
+				"parent" : 3
+			},
+			{
+				"file" : 10,
+				"parent" : 22
+			},
+			{
+				"command" : 2,
+				"file" : 10,
+				"line" : 62,
+				"parent" : 23
+			},
+			{
+				"file" : 9,
+				"parent" : 24
+			},
+			{
+				"command" : 1,
+				"file" : 9,
+				"line" : 61,
+				"parent" : 25
+			},
+			{
+				"command" : 2,
+				"file" : 10,
+				"line" : 57,
+				"parent" : 23
+			},
+			{
+				"file" : 11,
+				"parent" : 27
+			},
+			{
+				"command" : 1,
+				"file" : 11,
+				"line" : 61,
+				"parent" : 28
+			},
+			{
+				"command" : 2,
+				"file" : 8,
+				"line" : 55,
+				"parent" : 18
+			},
+			{
+				"file" : 12,
+				"parent" : 30
+			},
+			{
+				"command" : 1,
+				"file" : 12,
+				"line" : 61,
+				"parent" : 31
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 33,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"isSystem" : true,
+					"path" : "E:/App_Data/Project/MultiFileTransClient/cmake-build-debug/MultiFileTransClient_autogen/include"
+				},
+				{
+					"backtrace" : 33,
+					"isSystem" : true,
+					"path" : "E:/Install_Project/QT/6.7.2/mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 33,
+					"isSystem" : true,
+					"path" : "E:/Install_Project/QT/6.7.2/mingw_64/include"
+				},
+				{
+					"backtrace" : 33,
+					"isSystem" : true,
+					"path" : "E:/Install_Project/QT/6.7.2/mingw_64/mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 33,
+					"isSystem" : true,
+					"path" : "E:/Install_Project/QT/6.7.2/mingw_64/include/QtGui"
+				},
+				{
+					"backtrace" : 33,
+					"isSystem" : true,
+					"path" : "E:/Install_Project/QT/6.7.2/mingw_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 33,
+					"isSystem" : true,
+					"path" : "E:/Install_Project/QT/6.7.2/mingw_64/include/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					33,
+					33
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "MultiFileTransClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "MultiFileTransClient_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "MultiFileTransClient::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "E:\\Install_Project\\QT\\6.7.2\\mingw_64\\lib\\libQt6Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "E:\\Install_Project\\QT\\6.7.2\\mingw_64\\lib\\libQt6Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-ld3d11",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-ldxgi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-ldxguid",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-ld3d12",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "E:\\Install_Project\\QT\\6.7.2\\mingw_64\\lib\\libQt6Network.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "E:\\Install_Project\\QT\\6.7.2\\mingw_64\\lib\\libQt6Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "-lmpr",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "-luserenv",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "MultiFileTransClient",
+	"nameOnDisk" : "MultiFileTransClient.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				4,
+				6
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				7
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/MultiFileTransClient_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "transfileclient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "transfileclient.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "transfileclient.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/MultiFileTransClient_autogen/include/ui_transfileclient.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/MultiFileTransClient_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/MultiFileTransClient_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}

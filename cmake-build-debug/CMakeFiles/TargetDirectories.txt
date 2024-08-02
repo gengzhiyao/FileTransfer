@@ -1,0 +1,5 @@
+E:/App_Data/Project/MultiFileTransClient/cmake-build-debug/CMakeFiles/MultiFileTransClient.dir
+E:/App_Data/Project/MultiFileTransClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/App_Data/Project/MultiFileTransClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/App_Data/Project/MultiFileTransClient/cmake-build-debug/CMakeFiles/MultiFileTransClient_autogen_timestamp_deps.dir
+E:/App_Data/Project/MultiFileTransClient/cmake-build-debug/CMakeFiles/MultiFileTransClient_autogen.dir
